@@ -1,0 +1,3 @@
+D:/Documents/proiect echipa cripto/cmake-build-debug/CMakeFiles/proiect_echipa_cripto.dir
+D:/Documents/proiect echipa cripto/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/proiect echipa cripto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
